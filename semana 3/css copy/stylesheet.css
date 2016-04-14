@@ -1,0 +1,49 @@
+nav ul li {
+	list-style: none;
+	text-decoration: none;
+	margin-right: 300px;
+	text-align: center;
+	margin-top: 50px;
+	padding: 25px;
+	margin: 0px;
+	float: right;
+	font-size: 30px;
+	border-top-width: thin;
+	border-top-style: double;
+	border-top-color: white;
+    color:white;
+}
+
+    
+    h2{
+    	color:#003366;
+    	font-size: 30px;
+    	margin-left: 300px;
+
+    }
+    aside ul li{
+	margin-top:20px;
+	list-style: none;
+	color: #003366;
+	font-size: 25px;
+	text-decoration: none;
+	
+	
+
+    }
+    section article p {
+	color: #003366;
+	margin-left: 300px;
+	font-size: 25px;}
+
+	h1{
+		color:#336699;
+		font-size: 50px;
+		text-align: center;
+	}
+	footer{
+		color:black;
+	    font-size:10px;
+	    text-align:center;
+	}
+
