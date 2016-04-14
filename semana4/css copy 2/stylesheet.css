@@ -1,0 +1,57 @@
+header {
+		background-image: url(../imagenes/coffebean.png);
+	}
+	nav {
+		background-color: #230b03;
+		position:absolute;
+		display: block;
+		width:100%;
+		height:50px;
+	}
+	ul{
+		list-style-type: none;
+		margin:0;
+		padding:0;
+		margin-top: 10px;
+	}
+	li{
+		display:inline;
+		margin-right:10px;
+		margin-left: 10px;
+
+	}
+	.nav {
+			text-decoration: none;
+			color: white;
+			font-size: 2em;
+			font-family: Helvetica, sans-serif;
+			font-weight: bold;
+	}
+	.nav:hover {
+		color: #230b03;
+		background-color: #8a6145;
+	}	
+	section {
+		margin-top: 50px;
+	}
+	article {
+			width: 500px;
+			display: inline-block;
+			position: relative;
+			margin-left: 50px;
+			margin-right: 50px;
+			font-family: times, serif;
+	}
+	article h2 {
+		font-size: 40px;
+		font-family: Arial bold;
+
+	}
+	footer {
+			background-color: #230b03;
+			margin-top: 10px;
+			height:50px;
+	}
+	footer p {
+		color: white;
+	}
